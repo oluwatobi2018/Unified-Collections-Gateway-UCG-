@@ -1,17 +1,14 @@
 === Plugin Name ===
-Contributors: oomotayo
-Tags: unified payment services limited, mastercard, nigeria, payment gateway, visa card, woocommerce
+Contributors: Oluwatobi
+              Omotayo
+unified payment services limited, mastercard, nigeria, payment gateway, visa card, woocommerce
 Requires at least: 3.8 or higher
 Tested up to: 4.7.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Unified Payment Services Limited Payment Gateway for Woocommerce
-
-== Description ==
-
-**Introduction**
+Unified Payment Services Limited Payment Gateway for Ecommerce applications
 
 
 Easily add Unified Payment Services Limited payment options to your WordPress / WooCommerce website.
@@ -26,17 +23,11 @@ Easily add Unified Payment Services Limited payment options to your WordPress / 
 - Notification when gateway is in test mode
 - Force SSL on checkout page
 
-**Quality Control**
-
-
 Payment processing can't go wrong. It's as simple as that. We have thoroughly tested this plugin on the Unified Payment Services Limited sandbox (test) servers to ensure your customers don't have problems paying you.
 
-**Suggestions / Feature Request**
 
 
-For suggestions or a new feature request tweet @lekan_dny
 
-**Get Involved**
 
 
 Developers can contribute to the source code on the [Unified Payment Services Limited Payment Gateway for Woocommerce repository](https://github.com/lekan009/upsl "Unified Payment Services Limited Payment Gateway for Woocommerce repository")
